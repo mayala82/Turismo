@@ -1,0 +1,46 @@
+body{
+    background: url(../img/Fondo_2.jpg);
+    margin-top: 30px;
+
+}
+.logo{
+    width: 80%;
+    margin: 30px;
+    margin-left: 80px;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin-bottom: -200px;
+}
+.redes{
+    width: 30%;
+    margin-top: 60px;
+}
+.botones{
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.contenido{
+    border-radius: 5px;
+    background-color: rgba(2, 30, 56,0.5);
+
+}
+#slogan{
+    margin-top: 50px;
+    color: white;
+    font-family: 'Covered By Your Grace', cursive;
+}
+#cabecera{
+    background: rgba(62, 153, 238, 0.8);
+    margin-bottom: 0px;
+}
+.info{
+    margin: 0px;
+    padding: 0px;
+    background: rgba(242, 243, 243, 0.8);
+}
+.galeria{
+    margin-top: 60px;
+}
+.media{
+    height: 400px;
+}
