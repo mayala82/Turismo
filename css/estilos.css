@@ -44,3 +44,8 @@ body{
 .media{
     height: 400px;
 }
+#autor{
+    width: 70%;
+    border: 1px solid;
+
+}
